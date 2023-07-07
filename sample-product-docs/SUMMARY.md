@@ -12,6 +12,11 @@
 * [📪 Making a post](product-guides/making-a-post.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
+## 📑 Requirements
+
+* [🗺 Source to Target Mapping](requirements/source-to-target-mapping.md)
+* [🔁 Features](requirements/features.md)
+
 ## Fundamentals
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
